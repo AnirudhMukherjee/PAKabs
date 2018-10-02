@@ -1,3 +1,5 @@
+/*Contributors- Keval Nagda, Anirudh Mukherjee, Pratik Mulchandani*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<malloc.h>
